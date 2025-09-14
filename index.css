@@ -12,7 +12,7 @@ html,body{
     
     width: 100%;
     height: 100%;
-    background-color: whitesmoke;
+    background-color: #dadadada;
     overflow: hidden;
 }
 #center{
@@ -42,6 +42,7 @@ img
 }
 .text
 {
+    color: whitesmoke;
     overflow: hidden;
     position: absolute;
     bottom: 15%;
